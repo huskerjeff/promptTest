@@ -45,3 +45,21 @@ The agent specializes in:
 - Chain-of-thought reasoning design
 - Model-specific tuning (Claude, GPT, open models)
 - AI system architecture for homelab automation
+
+### Task Decomposition Expert (`task-decomposition-expert`)
+
+Located at `.claude/agents/task-decomposition-expert.md`
+
+**Use this agent when:**
+- Breaking down complex homelab projects into manageable steps
+- Planning multi-phase infrastructure implementations
+- Organizing migration or upgrade workflows
+- Creating structured implementation roadmaps
+
+**Invocation:** Use the Task tool with the agent name when you need help decomposing complex tasks
+
+The agent specializes in:
+- Breaking complex tasks into actionable subtasks
+- Identifying dependencies and sequencing
+- Creating clear implementation workflows
+- Estimating scope and complexity of homelab projects
